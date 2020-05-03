@@ -1,1 +1,1 @@
-# hello-world
+system.out.println("мама мыла раму");
